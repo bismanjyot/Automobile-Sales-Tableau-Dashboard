@@ -2,8 +2,6 @@
 
 This repository contains a fully interactive **Automobile Sales Dashboard** created using **Tableau**, built to visualize key metrics like profit, tax, and city-wise sales quantities across global regions.
 
-This project was completed as part of my learning journey under **Satish Dhawale**, Founder of **Skill Course**, where I also learned to clean and prepare data using **Power Query ETL**.
-
 ---
 
 ## 📁 Project Files
